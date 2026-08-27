@@ -19,7 +19,7 @@ export const galleryConfig: GalleryConfig = {
 			id: "firefly-2026",
 			name: "Kipfel",
 			description: "猫猫可爱捏~~",
-			location: "崩坏：星穹铁道",
+			location: "福建",
 			date: "2026-08-27",
 			tags: ["kipfel"],
 		},
