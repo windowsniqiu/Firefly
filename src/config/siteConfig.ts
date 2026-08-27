@@ -50,7 +50,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"这里是一基普菲尔的笔记本，这里记录了基普菲尔的日常,游玩等",
+		"这是基普菲尔的笔记本，这里记录了基普菲尔的日常,游玩等",
 
 	// 站点关键词
 	keywords: [
@@ -109,7 +109,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "Kipfel",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
