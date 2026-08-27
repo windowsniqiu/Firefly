@@ -28,7 +28,7 @@ export const friendsConfig: FriendLink[] = [
 			"https://weavatar.com/api/avatar/677516c12e4b68b191df9b3a61e7407d992f2aa09062098612a0dc4e1fdbe7dd?s=50&t=1787829793232",
 		desc: "敢于拼搏。",
 		siteurl: "https://kipfel.eu.cc",
-		tags: ["Blog"],
+		tags: ["网站"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
