@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "笔记本",
 
 	// 站点 URL
-	site_url: "https://kipfel.eu.cc/",
+	site_url: "https://kipfel.ccwu.cc/",
 
 	// 站点描述
 	description:
