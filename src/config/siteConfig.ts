@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "笔记本",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://kipfel.eu.cc/",
 
 	// 站点描述
 	description:
