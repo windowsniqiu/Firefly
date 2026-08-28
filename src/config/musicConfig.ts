@@ -54,6 +54,36 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/summer.jpg",
 				lrc: "",
 			},
+			{
+				name: "Butterflies",
+				artist: "Butterflies",
+				url: "/assets/music/Butterflies.mp3",
+				cover: "/assets/music/cover/Butterflies.jpg",
+				lrc: "",
+			},
+			
+			{
+				name: "Evelonda",
+				artist: "Evelonda",
+				url: "/assets/music/Evelonda.mp3",
+				cover: "/assets/music/cover/Evelonda.jpg",
+				lrc: "",
+			},
+			
+			{
+				name: "Sacred Play Secret Plac",
+				artist: "auto",
+				url: "/assets/music/Sacred Play Secret Plac.mp3",
+				cover: "/assets/music/cover/无图片.jpg",
+				lrc: "",
+			},
+			{
+				name: "睡个好觉",
+				artist: "睡个好觉",
+				url: "/assets/music/睡个好觉.mp3",
+				cover: "/assets/music/cover/无图片.jpg",
+				lrc: "",
+			},
 		],
 	},
 };
