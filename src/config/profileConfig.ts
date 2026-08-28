@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.avif",
 
 	// 名字
-	name: "基普菲尔",
+	name: "星潋",
 
 	// 个人签名
-	bio: "滋养心灵，麻薯麻薯!",
+	bio: "慢一点没关系,月亮也不是马上圆!",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
