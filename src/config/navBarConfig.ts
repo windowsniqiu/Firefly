@@ -103,6 +103,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "fa7-brands:github",
 			},
+			{
+				name: "bilibili",
+				url: "https://space.bilibili.com/3546793849653436?spm_id_from=333.337.0.0",
+				external: true,
+				icon: "",
+			},
 		],
 	});
 
