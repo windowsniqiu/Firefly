@@ -105,9 +105,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 图标支持 Iconify 格式：fa7-brands:github、fa7-solid:envelope、mdi:rss 等
 			links: [
 				{
-					name: "GitHub",
-					icon: "fa7-brands:github",
-					url: "https://github.com/windowsniqiu",
+					name: "抖音",
+					icon: "mychess",
+					url: "https://www.douyin.com/user/MS4wLjABAAAAghejjO8DmZa5xskQ5aBdOgweZHGnczQnxcetN2UB9Y6t0GE9jSS4G2E-G9BuvG7d?from_tab_name=main&vid=7708307180475092401,
 					showName: true,
 				},
 				{
