@@ -98,10 +98,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		// 子菜单
 		children: [
 			{
-				name: "GitHub",
-				url: "https://github.com/windowsniqiu",
-				external: true,
-				icon: "fa7-brands:github",
+					name: "抖音",
+					icon: "mychess",
+					url: "https://www.douyin.com/user/MS4wLjABAAAAghejjO8DmZa5xskQ5aBdOgweZHGnczQnxcetN2UB9Y6t0GE9jSS4G2E-G9BuvG7d?from_tab_name=main&vid=7708307180475092401",
+					showName: true,
 			},
 			{
 				name: "bilibili",
